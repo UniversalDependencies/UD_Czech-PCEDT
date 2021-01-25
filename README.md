@@ -40,7 +40,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Zeman, Daniel
+Contributors: Nedoluzhko, Anna; Novák, Michal; Cinková, Silvie; Mikulová, Marie; Mírovský, Jiří; Zeman, Daniel
 Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
