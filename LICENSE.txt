@@ -1,4 +1,10 @@
-The Czech UD treebank is derived from the Prague Dependency Treebank 3.0 (PDT 3.0) and is distributed under the same license terms as PDT 3.0, which is
+The treebank is derived from the Prague Czech-English Dependency Treebank 2.0 (PCEDT 2.0) and is distributed under the same license terms as PCEDT 2.0.
+
+- The English part is based on Penn Treebank 3 and therefore to use PCEDT, you need a license for Treebank 3 (https://catalog.ldc.upenn.edu/LDC99T42). By accepting this license and downloading the data you declare that you have a valid license for Treebank 3.
+- The dependency annotation of the English data, as well as all the Czech data is licensed under the terms of Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (CC BY-NC-SA 3.0)
+
+
+
 CreativeCommons BY-NC-SA 3.0
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
